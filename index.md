@@ -7,3 +7,7 @@ import numpy as np
 dt = np.dtype([('age',np.int8)])
 print(dt)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
